@@ -1,5 +1,5 @@
 {
-  "schema": "butterfly.malecns-candidate-slice/v1",
+  "schema": "neuro-flap.malecns-candidate-slice/v1",
   "source": {
     "server": "https://neuprint.janelia.org",
     "dataset": "male-cns:v1.0"
